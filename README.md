@@ -13,6 +13,7 @@ Con el notebook puedes:
 ## Contenido
 
 - `LoRA_cafeteria_uam.ipynb`: el notebook.
+- `demo_modelo_simple.ipynb`: demo para probar los modelos creados desde huggingface.
 
 ## Qué es LoRA
 
